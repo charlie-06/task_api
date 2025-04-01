@@ -1,12 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Task 1",
-    "description": "Description of Task 1"
+    "title": "Complete code",
+    "description": "Solve all exercises from the textbook",
+    "completed": false,
+    "dueDate": "2025-03-27T00:00:00Z",
+    "category ": "General"
   },
   {
     "id": 2,
-    "title": "Task 2",
-    "description": "Description of Task 2"
+    "title": "Prepare project report",
+    "description": "Summarize progress and plan next steps",
+    "completed": true,
+    "dueDate": "2025-03-30T10:00:00Z",
+    "category ": "General"
+  },
+  {
+    "id": 3,
+    "title": "play valorant",
+    "description": "Solo game",
+    "completed": true,
+    "dueDate": "2025-03-30T10:00:00Z",
+    "category": "General"
   }
 ]
